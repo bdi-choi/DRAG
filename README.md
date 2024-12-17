@@ -6,12 +6,13 @@ This code is the official implementation of the following [paper](https://ieeexp
 All codes are written by Heehyeon Kim (heehyeon@kaist.ac.kr) and Jinhyeok Choi (cjh0507@kaist.ac.kr). When you use this code, please cite our paper.
 
 ```bibtex
-@article{drag,
-  author={Heehyeon Kim, Jinhyeok Choi, and Joyce Jiyoung Whang},
-  booktitle = {2023 IEEE International Conference on Data Mining Workshops (ICDMW)},
-  title = {Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection},
-  year = {2023},
-  pages = {1092-1096}
+@inproceedings{drag,
+	author={Heehyeon Kim and Jinhyeok Choi and Joyce Jiyoung Whang},
+	title={Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection},
+	booktitle={2023 IEEE International Conference on Data Mining Workshops (ICDMW)},
+	year={2023},
+	pages={1092--1096},
+	doi={10.1109/ICDMW60847.2023.00143}
 }
 ```
 
